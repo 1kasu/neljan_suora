@@ -1,0 +1,6 @@
+[package]
+name = "neljan_suora"
+version = "0.1.0"
+authors = ["Kasimir Ilmonen <kajysail@student.jyu.fi>"]
+
+[dependencies]
